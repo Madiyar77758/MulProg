@@ -1,0 +1,5 @@
+.venv/
+.idea/
+.streamlit/
+__pycache__/
+*.csv
