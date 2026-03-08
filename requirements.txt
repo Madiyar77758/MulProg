@@ -1,4 +1,5 @@
-crewai
+crewai==0.100.1
 streamlit
 langchain-google-genai
 python-dotenv
+pydantic>=2.4.1,<3.0.0
