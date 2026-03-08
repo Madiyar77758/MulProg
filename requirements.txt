@@ -2,5 +2,5 @@ crewai==0.100.1
 streamlit
 langchain-google-genai
 python-dotenv
-pydantic>=2.4.1,<2.10.0
-pydantic-settings
+pydantic==2.9.2
+pydantic-settings==2.6.1
